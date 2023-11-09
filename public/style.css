@@ -1,0 +1,21 @@
+.tabela{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    border: 1px solid #000;
+}
+
+.celula {
+    border: 1px solid #000;
+    padding: 10px;
+    
+}
+
+.rotulo-coluna{
+    background-color: rgb(0, 110, 255);
+    color: aquamarine;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+    
